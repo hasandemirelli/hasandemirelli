@@ -6,25 +6,26 @@
 - 🌱 I’m currently learning Flutter.
 - 🤝 I'm looking to collaborate on new projects.
 
-# 💼 Technologies & Tools
+# 🧰 Technologies & Tools
 ## Frameworks
 - Flutter
 - Laravel
 - Bootstrap
 ## Langues
 - Java
-- C / C++
-- PHP
+- JavaScript
+- Dart
 - HTML
 - CSS
-- JavaScript
+- C / C++
+- PHP
 ## Database
 - MySQL
 - MongoDB
 
 # 📫 Contact me
-<a href="mailto:hasandemirelli8@gmail.com" target="_blank"><img alt="Mail" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" style="margin-right:10px"></a>
-<a href="https://www.linkedin.com/in/hasan-demirelli-a26a29177/" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" style="margin-right:10px"></a>
+<a href="mailto:hasandemirelli8@gmail.com" target="_blank"><img alt="Mail" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" style="margin-right:20px"></a>
+<a href="https://www.linkedin.com/in/hasan-demirelli-a26a29177/" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" style="margin-right:20px"></a>
 
 <details>
 <summary>Click for GitHub Stats</summary>
