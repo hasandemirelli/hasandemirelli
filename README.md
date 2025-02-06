@@ -1,39 +1,47 @@
-# 👋 Hi, I’m Hasan Demirelli
+# 👋 Hi, I'm Hasan Demirelli
 
-- 🏠 I'm currently living in İstanbul, Turkey.
-- 💼 I'm currently working as a Software Engineer.
-- 👀 I’m interested in full stack software development.
-- 🌱 I’m currently learning Flutter.
-- 🤝 I'm looking to collaborate on new projects.
+🚀 Passionate Software Engineer | Full-Stack Developer  
+🏠 Based in İstanbul, Turkey  
+💼 Specializing in **Web & Mobile Development**  
 
-# 🧰 Technologies & Tools
-## Frameworks
-- Flutter
-- Laravel
-- Bootstrap
-## Langues
-- Java
-- JavaScript
-- Dart
-- HTML
-- CSS
-- C / C++
-- PHP
-## Database
-- MySQL
-- MongoDB
+I have experience in building **scalable, high-performance applications** using modern technologies. My expertise lies in **full-stack development, cloud computing, and microservices architecture**.  
 
-# 📫 Contact me
+Currently, I’m enhancing my skills in **Flutter** to build cross-platform mobile applications. I'm always open to collaborating on innovative projects!  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### **🚀 Frameworks & Libraries**
+- **Frontend:** React, Bootstrap  
+- **Backend:** Spring Boot, Laravel  
+- **Mobile:** Flutter  
+
+### **💻 Languages**
+- Java, JavaScript, Dart  
+- HTML, CSS, PHP  
+- C / C++  
+
+### **🗄️ Databases**
+- PostgreSQL, MySQL, MongoDB  
+
+### **☁️ DevOps & Cloud**
+- Docker, Kubernetes, CI/CD  
+
+---
+
+## 📫 Let's Connect  
 <a href="mailto:hasandemirelli8@gmail.com" target="_blank"><img alt="Mail" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" style="margin-right:20px"></a>
-<a href="https://www.linkedin.com/in/hasan-demirelli-a26a29177/" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" style="margin-right:20px"></a>
+<a href="https://www.linkedin.com/in/hasandemirelli/" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" style="margin-right:20px"></a>  
+
+---
 
 <details>
-<summary>Click for GitHub Stats</summary>
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hasandemirelli&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasandemirelli&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+<summary>📊 GitHub Stats</summary>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hasandemirelli&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasandemirelli&hide=html&hide_border=true&title_color=5391FE&text_color=555">
 </details>
 
-<!---
-hasandemirelli/hasandemirelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌟 **Let's build something amazing together!**
